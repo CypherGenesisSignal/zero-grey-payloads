@@ -1,2 +1,2 @@
 # Template Examples
-This folder contains example templates.
+This folder contains Field_Artifact_Log_Templates.
