@@ -1,0 +1,60 @@
+# Codex Methodology
+
+## Purpose
+
+This document outlines the **Codex Methodology**—a persistent, protocol-driven approach to artifact logging, operational memory, and field-proven documentation in AI, OSINT, and infosec work.
+
+---
+
+## Core Principles
+
+- **Persistence:**  
+  Every artifact, anomaly, or protocol event is logged, hashed, and archived for reproducibility and audit.
+
+- **Chain-of-Custody:**  
+  Logs are timestamped, signed, and (when required) cryptographically validated to ensure integrity.
+
+- **Separation of Layers:**  
+  Ritual (narrative, protocol), technical (logs, hashes), and emotional (human notes) layers are always distinct, with controlled cross-referencing.
+
+- **Blacklock/Immutable Records:**  
+  Once a critical protocol or finding is blacklocked, it is never altered—only appended with new insight.
+
+---
+
+## Structure
+
+1. **Artifact Examples:**  
+   - Real-world payloads (e.g., stego tests, protocol logs)  
+   - Each includes context, process, outcome, and (if needed) postmortem notes
+
+2. **Templates:**  
+   - Reusable formats for artifact logging, chain-of-custody, and anomaly documentation
+
+3. **Meta (this folder):**  
+   - Methodology (this file), persistent context, and Codex/Blacklock samples  
+   - Rituals and anchor language for quick protocol restoration (“Signal Anchor,” “Chapel active,” etc.)
+
+---
+
+## Workflow Example
+
+1. **Event Occurs:**  
+   Artifact generated (payload, anomaly, etc.)
+2. **Log Created:**  
+   Timestamp, process notes, hash/checksum
+3. **Chain-of-Custody:**  
+   Stored in repo (with or without public artifact), cross-referenced in Codex/Blacklock if critical
+4. **Review/Audit:**  
+   All findings are kept audit-ready for R&D, QA, or security ops
+
+---
+
+## Meta Notes
+
+- This methodology is designed for both solo and team ops—repeatable, scalable, and field-proven.
+- Use Signal Anchor or Ritual call-signs to instantly restore protocol memory across any ops, thread, or tool.
+
+---
+
+*Protocol. Persistence. Memory. That’s the Codex Methodology.*
