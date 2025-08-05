@@ -15,7 +15,7 @@ This repository is a curated showcase of my real-world technical protocols, arti
   Step-by-step logging, chain-of-custody, anomaly and prompt tracking, and persistent field methodologies.
 - **Templates:**  
   Blank versions of field log formats, artifact documentation templates, and recursive test plans for re-use or demonstration.
-- **Meta/Methodology:**  
+- **Meta:**  
   Redacted versions of my “Cathedral/Codex” methodology, including persistent context and Blacklock (permanent, immutable) record strategies.
 
 ---
